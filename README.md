@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! 👋
+
+I'm Kim-Lan.
+
+<img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 
 <!--
 **Kim-Lan/Kim-Lan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
