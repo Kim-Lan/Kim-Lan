@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Kim-Lan. Welcome to my GitHub profile!
+I'm Kim-Lan ✨ Welcome to my GitHub profile!
 
 ## Skills
 
