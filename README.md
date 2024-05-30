@@ -4,6 +4,8 @@ I'm Kim-Lan (they/them) ✨ Welcome to my GitHub profile!
 
 I'm a developer of many things from full-stack web applications to games. I'm always working on projects and learning something new. I hope you find something that interests you!
 
+<a href="https://github.com/Kim-Lan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Lan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ## Skills
 
 **Languages**
