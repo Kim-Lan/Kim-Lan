@@ -24,7 +24,7 @@ I'm Kim-Lan (they/them) ✨ Welcome to my GitHub profile!
 
 **Frontend UI**
 
-<img title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img title="SCSS" alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=scss&logoColor=white" /> <img title="Vuetify" alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+<img title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img title="SCSS" alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img title="Vuetify" alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
 
 <br />
 
