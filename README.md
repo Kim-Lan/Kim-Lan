@@ -2,7 +2,7 @@
 
 I'm Kim-Lan (they/them) ✨ Welcome to my GitHub profile!
 
-I'm a developer of many things from full-stack web applications to games. I'm always learning something new and working on projects. I hope you find something that interests you!
+I'm a developer of many things from full-stack web applications to games. I'm always working on projects and learning something new. I hope you find something that interests you!
 
 ## Skills
 
