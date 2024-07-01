@@ -33,3 +33,7 @@ I'm a developer of many things from full-stack web applications to games. I'm al
 **Game Development**
 
 <img title="Godot" alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" />
+
+## Stats
+
+![Chart of Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kim-Lan&show_icons=true&locale=en&layout=compact&hide=LSL,GDScript,C%23)
