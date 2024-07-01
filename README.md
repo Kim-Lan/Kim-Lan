@@ -36,4 +36,4 @@ I'm a developer of many things from full-stack web applications to games. I'm al
 
 ## Stats
 
-![Chart of Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kim-Lan&show_icons=true&locale=en&layout=compact&hide=LSL,GDScript,C%23)
+![Chart of Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kim-Lan&show_icons=true&theme=transparent&locale=en&layout=compact&hide=LSL,GDScript,C%23)
